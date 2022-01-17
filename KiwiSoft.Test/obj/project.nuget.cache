@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Sb+xfjt4EapQWwyzRpO3blcmhjtqkarIrCWCoAOj/6tLKQXb8qbMABZYpZo7M+ymPrfoIe8nz5y37NmUdLeP9A==",
+  "dgSpecHash": "Wcq+yXEfQWDqUQl0vDlYkdBZIS6yJ0Rvg/UeW79m+d0qzh6qXJR9r2h9xYH17K3GI0iGAlju9/TKO6n4Yfxe1A==",
   "success": true,
-  "projectFilePath": "D:\\KiwiSoft\\KiwiSoft.Test\\KiwiSoft.Test.csproj",
+  "projectFilePath": "D:\\KiwiSoft.Bitly\\KiwiSoft.Test\\KiwiSoft.Test.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\johnh\\.nuget\\packages\\coverlet.collector\\3.1.0\\coverlet.collector.3.1.0.nupkg.sha512",
     "C:\\Users\\johnh\\.nuget\\packages\\microsoft.codecoverage\\16.11.0\\microsoft.codecoverage.16.11.0.nupkg.sha512",

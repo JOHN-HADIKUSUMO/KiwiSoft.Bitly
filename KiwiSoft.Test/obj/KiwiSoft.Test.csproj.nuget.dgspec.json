@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\KiwiSoft\\KiwiSoft.Test\\KiwiSoft.Test.csproj": {}
+    "D:\\KiwiSoft.Bitly\\KiwiSoft.Test\\KiwiSoft.Test.csproj": {}
   },
   "projects": {
-    "D:\\KiwiSoft\\KiwiSoft.Bitly\\KiwiSoft.Bitly.csproj": {
+    "D:\\KiwiSoft.Bitly\\KiwiSoft.Bitly\\KiwiSoft.Bitly.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\KiwiSoft\\KiwiSoft.Bitly\\KiwiSoft.Bitly.csproj",
+        "projectUniqueName": "D:\\KiwiSoft.Bitly\\KiwiSoft.Bitly\\KiwiSoft.Bitly.csproj",
         "projectName": "KiwiSoft.Bitly",
-        "projectPath": "D:\\KiwiSoft\\KiwiSoft.Bitly\\KiwiSoft.Bitly.csproj",
+        "projectPath": "D:\\KiwiSoft.Bitly\\KiwiSoft.Bitly\\KiwiSoft.Bitly.csproj",
         "packagesPath": "C:\\Users\\johnh\\.nuget\\packages\\",
-        "outputPath": "D:\\KiwiSoft\\KiwiSoft.Bitly\\obj\\",
+        "outputPath": "D:\\KiwiSoft.Bitly\\KiwiSoft.Bitly\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -72,14 +72,14 @@
         }
       }
     },
-    "D:\\KiwiSoft\\KiwiSoft.Test\\KiwiSoft.Test.csproj": {
+    "D:\\KiwiSoft.Bitly\\KiwiSoft.Test\\KiwiSoft.Test.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\KiwiSoft\\KiwiSoft.Test\\KiwiSoft.Test.csproj",
+        "projectUniqueName": "D:\\KiwiSoft.Bitly\\KiwiSoft.Test\\KiwiSoft.Test.csproj",
         "projectName": "KiwiSoft.Test",
-        "projectPath": "D:\\KiwiSoft\\KiwiSoft.Test\\KiwiSoft.Test.csproj",
+        "projectPath": "D:\\KiwiSoft.Bitly\\KiwiSoft.Test\\KiwiSoft.Test.csproj",
         "packagesPath": "C:\\Users\\johnh\\.nuget\\packages\\",
-        "outputPath": "D:\\KiwiSoft\\KiwiSoft.Test\\obj\\",
+        "outputPath": "D:\\KiwiSoft.Bitly\\KiwiSoft.Test\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -100,8 +100,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\KiwiSoft\\KiwiSoft.Bitly\\KiwiSoft.Bitly.csproj": {
-                "projectPath": "D:\\KiwiSoft\\KiwiSoft.Bitly\\KiwiSoft.Bitly.csproj"
+              "D:\\KiwiSoft.Bitly\\KiwiSoft.Bitly\\KiwiSoft.Bitly.csproj": {
+                "projectPath": "D:\\KiwiSoft.Bitly\\KiwiSoft.Bitly\\KiwiSoft.Bitly.csproj"
               }
             }
           }
