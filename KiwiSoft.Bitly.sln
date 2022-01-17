@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "KiwiSoft.Bitly", ".\KiwiSoft.Bitly\KiwiSoft.Bitly.csproj", "{4711E2F4-925D-4943-ABFC-2DD7E4162498}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KiwiSoft.Test", ".\KiwiSoft.Test\KiwiSoft.Test.csproj", "{0EBC3C2C-620B-42BB-9733-4449B35E7092}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4711E2F4-925D-4943-ABFC-2DD7E4162498}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4711E2F4-925D-4943-ABFC-2DD7E4162498}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4711E2F4-925D-4943-ABFC-2DD7E4162498}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4711E2F4-925D-4943-ABFC-2DD7E4162498}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0EBC3C2C-620B-42BB-9733-4449B35E7092}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0EBC3C2C-620B-42BB-9733-4449B35E7092}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0EBC3C2C-620B-42BB-9733-4449B35E7092}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0EBC3C2C-620B-42BB-9733-4449B35E7092}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D5488BEF-551A-4F72-85B3-CECD0136D5F5}
+	EndGlobalSection
+EndGlobal
