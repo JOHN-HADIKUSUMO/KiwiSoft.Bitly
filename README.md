@@ -24,8 +24,8 @@ And on the C# code, you just need to call new Shortener() to create a new instan
 
 ```C#
   Configuration configuration = new Configuration();
-  configuration.GroupGuid = "BlcgnMiKaen";
-  configuration.Token = "663e96dfffd3d5d744dca9172719b01aed23eb09";
+  configuration.GroupGuid = "GKcgnMiNain";
+  configuration.Token = "563e96dfffd3d5e744dca8172719b01aed23eb09";
 
   Shortener shortener = new Shortener(configuration);
   ReturnURL result = await shortener.CreateAsync("https://edi.wang/post/2019/4/24/how-to-pack-a-net-core-class-library-and-upload-to-nuget");
