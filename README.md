@@ -18,6 +18,7 @@ And on the C# code, you just need to call new Shortener() to create a new instan
 ```C#
   Shortener shortener = new Shortener();
   ReturnURL result = await shortener.CreateAsync("https://edi.wang/post/2019/4/24/how-to-pack-a-net-core-class-library-and-upload-to-nuget");
+  string url = result.Status?result.Url:string.Empty;
 ```
 
 #### B) By instantiating Configuration class and pass it to the constructor :
@@ -29,6 +30,7 @@ And on the C# code, you just need to call new Shortener() to create a new instan
 
   Shortener shortener = new Shortener(configuration);
   ReturnURL result = await shortener.CreateAsync("https://edi.wang/post/2019/4/24/how-to-pack-a-net-core-class-library-and-upload-to-nuget");
+  string url = result.Status?result.Url:string.Empty;
 ```
 
 You can find out whether the operation is successful or not by looking at the value of **Status** property on ReturnUrl. And the shortened url can be 
