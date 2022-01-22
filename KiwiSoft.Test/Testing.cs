@@ -30,5 +30,18 @@ namespace KiwiSoft.Test
             Assert.IsTrue(result.Status);
             Assert.IsFalse(string.IsNullOrEmpty(result.Url));
         }
+
+        [Test]
+        public async Task Test3()
+        {
+            Configuration configuration = new Configuration();
+            configuration.GroupGuid = "BlcgnMiKaen";
+            configuration.Token = "663e96dfffd3d5d744dca9172719b01aed23eb09";
+
+            Shortener shortener = new Shortener(configuration);
+            ReturnURL result = await shortener.CreateAsync("https://edi.wang/post/2019/4/24/how-to-pack-a-net-core-class-library-and-upload-to-nuget");
+            Assert.IsTrue(result.Status);
+            Assert.IsFalse(string.IsNullOrEmpty(result.Url));
+        }
     }
 }

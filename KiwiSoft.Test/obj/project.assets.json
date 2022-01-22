@@ -1042,7 +1042,7 @@
           "lib/netstandard1.3/System.Xml.XDocument.dll": {}
         }
       },
-      "KiwiSoft.Bitly/1.0.0": {
+      "KiwiSoft.Bitly/1.0.1": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
         "dependencies": {
@@ -4214,7 +4214,7 @@
         "system.xml.xdocument.nuspec"
       ]
     },
-    "KiwiSoft.Bitly/1.0.0": {
+    "KiwiSoft.Bitly/1.0.1": {
       "type": "project",
       "path": "../KiwiSoft.Bitly/KiwiSoft.Bitly.csproj",
       "msbuildProject": "../KiwiSoft.Bitly/KiwiSoft.Bitly.csproj"
@@ -4222,7 +4222,7 @@
   },
   "projectFileDependencyGroups": {
     "net6.0": [
-      "KiwiSoft.Bitly >= 1.0.0",
+      "KiwiSoft.Bitly >= 1.0.1",
       "Microsoft.NET.Test.Sdk >= 17.0.0",
       "NUnit >= 3.13.2",
       "NUnit3TestAdapter >= 4.2.1"
