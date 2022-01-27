@@ -238,14 +238,6 @@ D:\KiwiSoft.Bitly\KiwiSoft.Test\bin\Debug\net6.0\KiwiSoft.Test.dll
 D:\KiwiSoft.Bitly\KiwiSoft.Test\bin\Debug\net6.0\ref\KiwiSoft.Test.dll
 D:\KiwiSoft.Bitly\KiwiSoft.Test\bin\Debug\net6.0\KiwiSoft.Test.pdb
 D:\KiwiSoft.Bitly\KiwiSoft.Test\bin\Debug\net6.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
-D:\KiwiSoft.Bitly\KiwiSoft.Test\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
-D:\KiwiSoft.Bitly\KiwiSoft.Test\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
-D:\KiwiSoft.Bitly\KiwiSoft.Test\bin\Debug\net6.0\Microsoft.Extensions.Configuration.FileExtensions.dll
-D:\KiwiSoft.Bitly\KiwiSoft.Test\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Json.dll
-D:\KiwiSoft.Bitly\KiwiSoft.Test\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
-D:\KiwiSoft.Bitly\KiwiSoft.Test\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Physical.dll
-D:\KiwiSoft.Bitly\KiwiSoft.Test\bin\Debug\net6.0\Microsoft.Extensions.FileSystemGlobbing.dll
-D:\KiwiSoft.Bitly\KiwiSoft.Test\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
 D:\KiwiSoft.Bitly\KiwiSoft.Test\bin\Debug\net6.0\Microsoft.TestPlatform.CoreUtilities.dll
 D:\KiwiSoft.Bitly\KiwiSoft.Test\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
 D:\KiwiSoft.Bitly\KiwiSoft.Test\bin\Debug\net6.0\Microsoft.TestPlatform.CommunicationUtilities.dll
