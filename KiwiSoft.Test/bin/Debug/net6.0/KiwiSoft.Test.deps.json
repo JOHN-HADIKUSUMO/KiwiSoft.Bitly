@@ -8,7 +8,7 @@
     ".NETCoreApp,Version=v6.0": {
       "KiwiSoft.Test/1.0.0": {
         "dependencies": {
-          "KiwiSoft.Bitly": "1.0.1",
+          "KiwiSoft.Bitly": "1.0.2",
           "Microsoft.NET.Test.Sdk": "17.0.0",
           "NUnit": "3.13.2",
           "NUnit3TestAdapter": "4.2.1"
@@ -649,7 +649,7 @@
           "System.Xml.ReaderWriter": "4.0.11"
         }
       },
-      "KiwiSoft.Bitly/1.0.1": {
+      "KiwiSoft.Bitly/1.0.2": {
         "runtime": {
           "KiwiSoft.Bitly.dll": {}
         }
@@ -977,7 +977,7 @@
       "path": "system.xml.xdocument/4.0.11",
       "hashPath": "system.xml.xdocument.4.0.11.nupkg.sha512"
     },
-    "KiwiSoft.Bitly/1.0.1": {
+    "KiwiSoft.Bitly/1.0.2": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

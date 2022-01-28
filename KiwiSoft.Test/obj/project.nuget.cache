@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "gDyfL5nJNCJ3BpUyz57wYzx/oWyNtsTRVEBaqylW6s4gnnNbvMQxCwRMMb9bX1z/o6Zz4Ch6B8PqSnw9i7aa+A==",
+  "dgSpecHash": "2pxbE102UiqF+/GciTt/+TWTYgX299Yz1af/3rkcCy8OpF3p93aaxHjGrcdAMR25w8gdSnf07x8JDAtfIVVATA==",
   "success": true,
   "projectFilePath": "D:\\KiwiSoft.Bitly\\KiwiSoft.Test\\KiwiSoft.Test.csproj",
   "expectedPackageFiles": [
@@ -48,8 +48,7 @@
     "C:\\Users\\johnh\\.nuget\\packages\\system.threading.tasks\\4.0.11\\system.threading.tasks.4.0.11.nupkg.sha512",
     "C:\\Users\\johnh\\.nuget\\packages\\system.threading.tasks.extensions\\4.0.0\\system.threading.tasks.extensions.4.0.0.nupkg.sha512",
     "C:\\Users\\johnh\\.nuget\\packages\\system.xml.readerwriter\\4.0.11\\system.xml.readerwriter.4.0.11.nupkg.sha512",
-    "C:\\Users\\johnh\\.nuget\\packages\\system.xml.xdocument\\4.0.11\\system.xml.xdocument.4.0.11.nupkg.sha512",
-    "C:\\Users\\johnh\\.nuget\\packages\\kiwisoft.bitly\\1.0.1\\kiwisoft.bitly.1.0.1.nupkg.sha512"
+    "C:\\Users\\johnh\\.nuget\\packages\\system.xml.xdocument\\4.0.11\\system.xml.xdocument.4.0.11.nupkg.sha512"
   ],
   "logs": []
 }
