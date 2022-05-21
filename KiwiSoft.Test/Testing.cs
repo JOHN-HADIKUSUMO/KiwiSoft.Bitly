@@ -34,7 +34,7 @@ namespace KiwiSoft.Test
         [Test]
         public async Task Test3()
         {
-            Configuration configuration = new Configuration();
+            JsonConfiguration configuration = new Configuration();
             configuration.GroupGuid = "BlcgnMiKaen";
             configuration.Token = "663e96dfffd3d5d744dca9172719b01aed23eb09";
 
