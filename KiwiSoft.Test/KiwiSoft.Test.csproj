@@ -13,8 +13,6 @@
 
   <ItemGroup>
     <None Include="bin\Debug\net6.0\appsettings.json" />
-    <None Include="bin\Release\net6.0\appsettings.json" />
-    <None Include="bin\Release\net6.0\publish\appsettings.json" />
   </ItemGroup>
 
   <ItemGroup>
