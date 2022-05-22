@@ -20,7 +20,17 @@
       "ProjectGuid": "72cce50c-7d30-489e-b416-13cb77b7ffd2",
       "DisplayName": "KiwiSoft.Bitly.Sample1",
       "ColorIndex": 2
+    },
+    "1d48ee01-aa40-4c91-8b38-7f8458e0c6bf": {
+      "ProjectGuid": "1d48ee01-aa40-4c91-8b38-7f8458e0c6bf",
+      "DisplayName": "KiwiSoft.Bitly.Sample2",
+      "ColorIndex": 3
+    },
+    "72e01c6b-594c-459d-a466-b9e7522c0e3a": {
+      "ProjectGuid": "72e01c6b-594c-459d-a466-b9e7522c0e3a",
+      "DisplayName": "KiwiSoft.Bitly.Sample3",
+      "ColorIndex": 4
     }
   },
-  "NextColorIndex": 3
+  "NextColorIndex": 5
 }

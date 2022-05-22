@@ -15,8 +15,4 @@
     <ProjectReference Include="..\KiwiSoft.Bitly\KiwiSoft.Bitly.csproj" />
   </ItemGroup>
 
-  <Target Name="PostBuild" AfterTargets="PostBuildEvent">
-    <Exec Command="COPY $(ProjectDir)appsettings.json $(TargetDir)appsettings.json" />
-  </Target>
-
 </Project>
